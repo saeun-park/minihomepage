@@ -1,1 +1,1 @@
-# ENTP
+# MBTI : ENTP

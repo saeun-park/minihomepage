@@ -1,8 +1,12 @@
 # 박사은 의 미니홈페이지
 
+## footer 추가
+
+- footer.md 추가
+
 ## 사이드바 개발
 
--sidebar.md 추가
+- sidebar.md 추가
 
 ## 서비스 소개 페이지 추가
 

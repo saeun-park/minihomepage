@@ -4,6 +4,10 @@
 
 - footer.md 추가
 
+## 사이드바 개발
+
+- sidebar.md 추가
+
 ## 서비스 소개 페이지 추가
 
 - about.md 파일추가
